@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-
-import 'package:flutter/material.dart';
 import 'package:flutter_codigo5_firetask/ui/general/colors.dart';
 
 class ItemTypeWidget extends StatelessWidget {
